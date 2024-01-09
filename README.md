@@ -7,5 +7,3 @@ HTML - For creating the page structure.
 CSS - For styling and layout of the clock.
 JavaScript - For updating the clock in real time.
 
-## License
-This project is licensed under the MIT License.
